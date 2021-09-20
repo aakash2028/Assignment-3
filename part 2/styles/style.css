@@ -43,7 +43,9 @@ section img {
     height: 85px;
 }
 /*Solution page css*/
-
+section p{
+    margin-top: 0;
+}
 #vprospect,#vconvert,#vretain{
     font-weight: bold;
 }
